@@ -1,5 +1,5 @@
 <a
-  href="https://wa.me/96590000000"
+  href="https://wa.me/96560665245"
   target="_blank"
   rel="noopener noreferrer"
   style={{
